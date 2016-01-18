@@ -9,4 +9,4 @@ Uhh, see `run.py` :D
 
 
 # Acknowledgements
-SPECIAL THANKS to @affajapoz
+[@affajapoz](https://github.com/affajapoz) - helped me with the initial tutorial
