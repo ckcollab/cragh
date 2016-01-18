@@ -5,7 +5,7 @@ I have no idea what the name means.
 
 # Usage
 
-Uhh, see `run.py` :D
+`python run.py`
 
 
 # Acknowledgements
